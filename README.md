@@ -11,7 +11,9 @@
 * git push -u origin main
 * git checkout -b "01-module"
 * git push --set-upstream origin 01-module
-  …or push an existing repository from the command line
+
+…or push an existing repository from the command line
+
 * git remote add origin https://github.com/lucianodesenvolvedor/erp-lite-spring-boot-4-java-25-ddd-cqrs-hexagonal.git
 * git branch -M main
 * git push -u origin main
